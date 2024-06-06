@@ -1,4 +1,5 @@
-<img src="https://github.com/Ameeqtariq/Ameeqtariq/assets/161905535/5928bfda-343a-4c81-8331-d99f604c30af">
+<img src="https://github.com/Ameeqtariq/Ameeqtariq/assets/161905535/b806f9c6-8849-48be-b412-3bcad6627f24">
+
 <h1 align="center">Hi 👋, I'm Ameeq Tariq</h1>
 <h3 align="center">I'm a computer science and engineering graduate with a passion for web development and software engineering. I'm currently sharpening my skills in C and Python, and I'm always eager to learn more about new technologies.</h3>
 <a href="https://ameeqtariq.github.io/resume-html-only">Resume-HtmlOnly</a>
