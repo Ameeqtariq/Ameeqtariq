@@ -1,4 +1,5 @@
-<img src="https://github.com/Ameeqtariq/Ameeqtariq/assets/161905535/b806f9c6-8849-48be-b412-3bcad6627f24">
+<img src="https://github.com/user-attachments/assets/decdb8d2-5566-4eea-afb0-df5b08cc7f0d"/>
+
 
 <h1 align="center">Hi 👋, I'm Ameeq Tariq</h1>
 <h3 align="center">I'm a computer science and engineering graduate with a strong passion for cybersecurity.
