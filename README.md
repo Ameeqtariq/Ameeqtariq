@@ -1,16 +1,17 @@
 <img src="https://github.com/Ameeqtariq/Ameeqtariq/assets/161905535/b806f9c6-8849-48be-b412-3bcad6627f24">
 
 <h1 align="center">Hi 👋, I'm Ameeq Tariq</h1>
-<h3 align="center">I'm a computer science and engineering graduate with a passion for web development and software engineering. I'm currently sharpening my skills in C and Python, and I'm always eager to learn more about new technologies.</h3>
+<h3 align="center">I'm a computer science and engineering graduate with a strong passion for cybersecurity.
+  My goal is to secure individuals and organizations by identifying vulnerabilities, strengthening defenses, and ensuring robust cyber protection against evolving threats.</h3>
 <a href="https://ameeqtariq.github.io/resume-html-only">Resume-HtmlOnly</a>
 
 - 🔭 I’m currently working on **portfolio**
 
-- 💬 Ask me about **Web developement**
+- 💬 Ask me about **Cybersecurity**
 
 - 📫 How to reach me **📧ameeqtariqns200@gmail.com**
 
-- ⚡ Fun fact **😄When I'm not coding, you can find me on the football pitch ⚽️ or exploring the latest advancements in the tech world.**
+- ⚡ Fun fact **😄When I'm not coding or, you can find me on the football pitch ⚽️ or exploring the latest advancements in the tech world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
