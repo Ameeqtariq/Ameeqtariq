@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **📧ameeqtariqns200@gmail.com**
 
-- ⚡ Fun fact **😄When I'm not coding or, you can find me on the football pitch ⚽️ or exploring the latest advancements in the tech world.**
+- ⚡ Fun fact **😄When I'm not coding or enhancing my skills in the field of security, you can find me on the football pitch ⚽️ or exploring the latest advancements in the tech world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
