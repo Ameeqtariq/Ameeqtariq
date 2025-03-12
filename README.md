@@ -6,6 +6,8 @@
   My goal is to secure individuals and organizations by identifying vulnerabilities, strengthening defenses, and ensuring robust cyber protection against evolving threats.</h3>
 <a href="https://ameeqtariq.github.io/resume-html-only">Resume-HtmlOnly</a>
 
+- Google Cybersecurity Professional and CEH certifications in progress.
+
 - 🔭 I’m currently working on **portfolio**
 
 - 💬 Ask me about **Cybersecurity**
